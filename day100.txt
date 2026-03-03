@@ -1,2 +1,0 @@
-welcome to day 9 of python
-day 9
